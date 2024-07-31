@@ -2,6 +2,8 @@
 
 The Pokémon Battle App is a web application where users can simulate battles between different Pokémon. Each Pokémon has unique stats, and the battles are determined based on these stats.
 
+![pokemonBattle](https://github.com/user-attachments/assets/39eddd49-dde1-4a19-a1d1-72f0705e4230)
+
 ## Table of Contents
 
 - [Objectives](#objectives)
