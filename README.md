@@ -111,11 +111,3 @@ The battle calculation algorithm follows these rules:
 1. **Open the frontend application** in your browser.
 2. **Select two Pokémon** to initiate a battle.
 3. **View the results** of the battle.
-
-## Contributions
-
-Contributions are welcome. Please open an issue or a pull request to discuss any changes.
-
-## License
-
-This project is licensed under the MIT License.
